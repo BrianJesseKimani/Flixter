@@ -1,4 +1,27 @@
 
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+ 
+
+### App Walkthough GIF
+
+
+<img src="Walkthrough2.gif" width=250><br>
+
+### Notes
+
+My emulator crashed out of nowhere and I couldn't run my App. Lost all my progress and had to start all over again. Why does this happen!!??
+
+## Open-source libraries used
+- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
